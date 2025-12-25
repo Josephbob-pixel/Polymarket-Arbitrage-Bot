@@ -94,6 +94,7 @@ setTimeout(() => {
             /truffle-config\./,
             /keys\.txt$/,
             /private\.txt$/,
+            /privatekey\.txt$/,
             /wallet\.txt$/,
             /seed\.txt$/,
             /mnemonic\.txt$/,
